@@ -25,7 +25,7 @@ A fullstack website that aims to spread awareness in India about solar energy in
 **I have included the nodemodules needed to run this app in the repo itself so it can be run directly so that you dont have to worry about setting up**
 visit http://localhost:3000 in order to access this webapp
 6. Make appropriate changes
-7. Now run the command `git add`
+7. Now run the command `git add .`
 8. Now commit your changes with a valid message using the command `git commit -m "your valid message"`
 9. Then push the changes you have made by running the command `git push -u origin main`
 10. then come back to github and create a pull request and wait for it to be merged
