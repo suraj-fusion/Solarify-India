@@ -20,6 +20,7 @@ A fullstack website that aims to spread awareness in India about solar energy in
 1. Go to any directory you want to download this project to 
 2. run the command `git init`
 3. then clone this repository on your local system by running the command `git clone "your forked repo url"`
+ **Since the node modules are included it will take some time to get cloned so wait a little**
 4. Make sure node.js is installed on your system.It can be installed from : https://nodejs.org/en/
 5. Run the app on your local system by using the command `nodemon index.js`
 **I have included the nodemodules needed to run this app in the repo itself so it can be run directly so that you dont have to worry about setting up**
