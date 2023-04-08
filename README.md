@@ -16,19 +16,19 @@ A fullstack website that aims to spread awareness in India about solar energy in
 
 
 ## Simple step by step instructions to contribute to this repo
-0. Fork this repo.
+0. Fork this repo
 1. Go to any directory you want to download this project to 
-2. run the command 'git init'.
-3. then clone this repository on your local system by running the command 'git clone "your forked repo url.
-Make sure node.js is installed on your system.It can be installed from : https://nodejs.org/en/.
-4. Run the app on your local system by using the command 'nodemon index.js'.
-**I have included the nodemodules needed to run this app in the repo itself so it can be run directly so that you dont have to worry about setting up*.
-visit http://localhost:3000 in order to access this webapp.
-5. Make appropriate changes.
-6. Now run the command 'git add .'.
-7. Now commit your changes with a valid message using the command 'git commit -m "your valid message".
-8. Then push the changes you have made by running the command 'git push -u origin main'.
-9. then come back to github and create a pull request and wait for it to be merged.
+2. run the command `git init`
+3. then clone this repository on your local system by running the command `git clone "your forked repo url`
+4. Make sure node.js is installed on your system.It can be installed from : https://nodejs.org/en/
+5. Run the app on your local system by using the command `nodemon index.js`
+**I have included the nodemodules needed to run this app in the repo itself so it can be run directly so that you dont have to worry about setting up**
+visit http://localhost:3000 in order to access this webapp
+6. Make appropriate changes
+7. Now run the command `git add`
+8. Now commit your changes with a valid message using the command `git commit -m "your valid message"`
+9. Then push the changes you have made by running the command `git push -u origin main`
+10. then come back to github and create a pull request and wait for it to be merged
 
 
 
