@@ -28,7 +28,7 @@ visit http://localhost:3000 in order to access this webapp
 6. Make appropriate changes
 7. Now run the command `git add .`
 8. Now commit your changes with a valid message using the command `git commit -m "your valid message"`
-9. Then push the changes you have made by running the command `git push -u origin main`
+9. Then push the changes you have made by running the command `git push -u origin master`
 10. then come back to github and create a pull request and wait for it to be merged
 
 
