@@ -1,7 +1,7 @@
 # Solarify-India
 
 
-This project is especially made  to teach people how to do open source contributions under the event called hackodex organised by codexclub of ITER Bhubaneshwarb please make sure you have registered on https://hackodex.codex-iter.in/ before contributing.
+This project is especially made  to teach people how to do open source contributions under the event called hackodex organised by codexclub of ITER Bhubaneshwar please make sure you have registered on https://hackodex.codex-iter.in/ before contributing.
 
 Tech Stacks Used : HTML | CSS | JAVASCRIPT | NODE JS | EXPRESS | EJS 
 
