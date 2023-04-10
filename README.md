@@ -1,5 +1,8 @@
 # Solarify-India
 
+
+This project is especially made  to teach people how to do open source contributions under the event called hackodex organised by codexclub of ITER Bhubaneshwarb please make sure you have registered on https://hackodex.codex-iter.in/ before contributing.
+
 Tech Stacks Used : HTML | CSS | JAVASCRIPT | NODE JS | EXPRESS | EJS 
 
 A fullstack website that aims to spread awareness in India about solar energy in a neat and simplified manner to attract potential solar energy users.
