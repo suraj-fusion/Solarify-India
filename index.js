@@ -14,7 +14,9 @@ app.get("/",function(req,res){
      
 
 });
-
+app.get("/gosolar",function(req,res){
+    res.redirect("https://mnre.gov.in/solar/current-status/");
+})
 
 ///add route
 
